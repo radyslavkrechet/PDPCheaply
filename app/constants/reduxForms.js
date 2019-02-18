@@ -1,0 +1,4 @@
+export default {
+  ADD_EXPENSE: 'ADD_EXPENSE',
+  AUTHORIZATION: 'AUTHORIZATION',
+};

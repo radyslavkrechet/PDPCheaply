@@ -1,0 +1,3 @@
+rootProject.name = 'Cheaply'
+
+include ':app'
