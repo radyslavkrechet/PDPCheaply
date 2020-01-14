@@ -1,5 +1,12 @@
 # Cheaply #
 
+<p float="left">
+  <img src="/Screenshots/2.png" width="200px" />
+  <img src="/Screenshots/4.png" width="200px" />
+  <img src="/Screenshots/7.png" width="200px" />
+  <img src="/Screenshots/6.png" width="200px" />
+</p>
+
 ### React Native application that used: ###
 
 * Axios for work with the network
